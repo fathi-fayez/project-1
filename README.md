@@ -2,4 +2,4 @@
 training project of HTMAL &amp; CSS
 
 
-#2 projects notes
+# projects notes
